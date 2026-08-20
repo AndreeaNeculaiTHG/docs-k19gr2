@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-3yys06.indocuan-vip.sbs/sitemap.xml
